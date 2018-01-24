@@ -15,4 +15,4 @@ To fix the problem, comment-out the line 74 (loss as our function) and use line 
 
 For more detail, see:
 - [Debugging TensorFlow Programs  |  TensorFlow](https://www.tensorflow.org/programmers_guide/debugger)
-- How to use tfdbg in Keras (Japanese article): https://qiita.com/drafts/5d6918678e8099b565d0 (currently in draft, I will release it on 2 Dec.)
+- How to use tfdbg in Keras (Japanese article): https://qiita.com/keisuke-nakata/items/5d6918678e8099b565d0
